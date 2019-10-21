@@ -13,3 +13,6 @@ Words here should indicate why this product rules
 Words here should indicate what the first thin slice of the project could be
 
 ### 5 questions, rephrased as goals
+
+
+### Immediate ask... # of pair hours, # of DX/XA hours, # of hardware artisan hours, etc.
